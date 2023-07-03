@@ -1,0 +1,55 @@
+subject no: 2
+with total_sample: 1152, epoch size: 256 and strides: 64
+with total_sample: 1152, epoch size: 256 and strides: 64
+Computing rank from data with rank=None
+    Using tolerance 4.4e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 63
+    MAG: rank 63 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 63
+Estimating covariance using SHRINKAGE
+Done.
+Computing rank from data with rank=None
+    Using tolerance 4.5e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 62
+    MAG: rank 62 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 62
+Estimating covariance using SHRINKAGE
+Done.
+LinAlgError occurred. Adjusting regularization parameter...
+Computing rank from data with rank=None
+    Using tolerance 4.4e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 63
+    MAG: rank 63 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 63
+Estimating covariance using SHRINKAGE
+Done.
+Computing rank from data with rank=None
+    Using tolerance 4.5e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 62
+    MAG: rank 62 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 62
+Estimating covariance using SHRINKAGE
+Done.
+LinAlgError occurred again. Consider further adjustments or preprocessing steps.
+Computing rank from data with rank=None
+    Using tolerance 4.4e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 63
+    MAG: rank 63 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 63
+Estimating covariance using SHRINKAGE
+Done.
+Computing rank from data with rank=None
+    Using tolerance 4.5e+02 (2.2e-16 eps * 64 dim * 3.1e+16  max singular value)
+    Estimated rank (mag): 62
+    MAG: rank 62 computed from 64 data channels with 0 projectors
+    Setting small MAG eigenvalues to zero (without PCA)
+Reducing data rank from 64 -> 62
+Estimating covariance using SHRINKAGE
+Done.
+LinAlgError occurred again. Consider further adjustments or preprocessing steps.
+fold 0 performance: 

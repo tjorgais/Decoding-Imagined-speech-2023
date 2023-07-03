@@ -1,0 +1,878 @@
+*******************************************************************************
+subject no: 2
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5574999999999999, MDM Classification Average Test Std: 0.04153311931459037
+MDM Classification Average Test Accuracy: 0.5675000000000001, MDM Classification Average Test Std: 0.06292356474326612
+subject no: 6
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.57, MDM Classification Average Test Std: 0.0401948379770338
+MDM Classification Average Test Accuracy: 0.53375, MDM Classification Average Test Std: 0.03720719016534304
+subject no: 7
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5549999999999999, MDM Classification Average Test Std: 0.07260767865728802
+MDM Classification Average Test Accuracy: 0.5475, MDM Classification Average Test Std: 0.03964687881788428
+subject no: 9
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.4887499999999999, MDM Classification Average Test Std: 0.03588175023601829
+MDM Classification Average Test Accuracy: 0.54, MDM Classification Average Test Std: 0.04213074886588179
+subject no: 11
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.4875, MDM Classification Average Test Std: 0.042573465914816006
+MDM Classification Average Test Accuracy: 0.48375, MDM Classification Average Test Std: 0.026398390102428608
+*******************************************************************************
+subject no: 2
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+MDM Classification Average Test Accuracy: 0.5566666666666666, MDM Classification Average Test Std: 0.04121421006292746
+MDM Classification Average Test Accuracy: 0.5791666666666667, MDM Classification Average Test Std: 0.04972144630058764
+subject no: 6
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+MDM Classification Average Test Accuracy: 0.5758333333333333, MDM Classification Average Test Std: 0.043092278246159646
+MDM Classification Average Test Accuracy: 0.515, MDM Classification Average Test Std: 0.028210518133017917
+subject no: 7
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+MDM Classification Average Test Accuracy: 0.5425000000000001, MDM Classification Average Test Std: 0.06600715449437618
+MDM Classification Average Test Accuracy: 0.5075, MDM Classification Average Test Std: 0.021311186420907364
+subject no: 9
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+MDM Classification Average Test Accuracy: 0.4966666666666667, MDM Classification Average Test Std: 0.026536138880151085
+MDM Classification Average Test Accuracy: 0.5625, MDM Classification Average Test Std: 0.03944053188733077
+subject no: 11
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 150
+with total_sample: 1280, epoch size: 512 and strides: 150
+(960, 60, 512)
+MDM Classification Average Test Accuracy: 0.47000000000000003, MDM Classification Average Test Std: 0.0472434592768612
+MDM Classification Average Test Accuracy: 0.5258333333333333, MDM Classification Average Test Std: 0.02519369409638496
+*******************************************************************************
+subject no: 2
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+*******************************************************************************
+subject no: 2
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5574999999999999, MDM Classification Average Test Std: 0.04153311931459037
+MDM Classification Average Test Accuracy: 0.5650000000000001, MDM Classification Average Test Std: 0.07380294709562758
+MDM Classification Average Test Accuracy: 0.5337500000000001, MDM Classification Average Test Std: 0.03925079617026898
+subject no: 6
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.57, MDM Classification Average Test Std: 0.0401948379770338
+MDM Classification Average Test Accuracy: 0.5799999999999998, MDM Classification Average Test Std: 0.04716990566028301
+MDM Classification Average Test Accuracy: 0.51, MDM Classification Average Test Std: 0.050093662273784714
+subject no: 7
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5549999999999999, MDM Classification Average Test Std: 0.07260767865728802
+MDM Classification Average Test Accuracy: 0.54125, MDM Classification Average Test Std: 0.05598548919139673
+MDM Classification Average Test Accuracy: 0.5437500000000001, MDM Classification Average Test Std: 0.04293891009329417
+subject no: 9
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.4887499999999999, MDM Classification Average Test Std: 0.03588175023601829
+MDM Classification Average Test Accuracy: 0.5312499999999999, MDM Classification Average Test Std: 0.03087272258807117
+MDM Classification Average Test Accuracy: 0.53375, MDM Classification Average Test Std: 0.049149008128343746
+subject no: 11
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 192
+with total_sample: 1280, epoch size: 512 and strides: 192
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.4875, MDM Classification Average Test Std: 0.042573465914816006
+MDM Classification Average Test Accuracy: 0.5237499999999999, MDM Classification Average Test Std: 0.02573907535246749
+MDM Classification Average Test Accuracy: 0.49000000000000005, MDM Classification Average Test Std: 0.02755675960631075
+*******************************************************************************
+subject no: 2
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.55625, MDM Classification Average Test Std: 0.04107919181288745
+MDM Classification Average Test Accuracy: 0.58125, MDM Classification Average Test Std: 0.07342087577794207
+MDM Classification Average Test Accuracy: 0.5549999999999999, MDM Classification Average Test Std: 0.015
+subject no: 6
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5800000000000001, MDM Classification Average Test Std: 0.05454356057317858
+MDM Classification Average Test Accuracy: 0.575, MDM Classification Average Test Std: 0.03750000000000002
+MDM Classification Average Test Accuracy: 0.5162500000000001, MDM Classification Average Test Std: 0.03925079617026896
+subject no: 7
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.5475, MDM Classification Average Test Std: 0.066332495807108
+MDM Classification Average Test Accuracy: 0.5575000000000001, MDM Classification Average Test Std: 0.03221024681681278
+MDM Classification Average Test Accuracy: 0.5225000000000001, MDM Classification Average Test Std: 0.04412340648680697
+subject no: 9
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.4875, MDM Classification Average Test Std: 0.039330331806380674
+MDM Classification Average Test Accuracy: 0.54375, MDM Classification Average Test Std: 0.05405437077609912
+MDM Classification Average Test Accuracy: 0.5237499999999999, MDM Classification Average Test Std: 0.061922330382504165
+subject no: 11
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+with total_sample: 1280, epoch size: 512 and strides: 250
+with total_sample: 1280, epoch size: 512 and strides: 250
+(640, 60, 512)
+MDM Classification Average Test Accuracy: 0.46375, MDM Classification Average Test Std: 0.04599592373243525
+MDM Classification Average Test Accuracy: 0.5424999999999999, MDM Classification Average Test Std: 0.026339134382131837
+MDM Classification Average Test Accuracy: 0.5025000000000001, MDM Classification Average Test Std: 0.05457219988235768
+*******************************************************************************
+subject no: 2
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5566666666666666, MDM Classification Average Test Std: 0.041965594373380564
+MDM Classification Average Test Accuracy: 0.575, MDM Classification Average Test Std: 0.06055300708194984
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.003333333333333366
+subject no: 6
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5700000000000001, MDM Classification Average Test Std: 0.03231786571610886
+MDM Classification Average Test Accuracy: 0.6033333333333333, MDM Classification Average Test Std: 0.05390320542932075
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.050717080182343124
+subject no: 7
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5283333333333333, MDM Classification Average Test Std: 0.04428443418528809
+MDM Classification Average Test Accuracy: 0.5583333333333332, MDM Classification Average Test Std: 0.029344694769431662
+MDM Classification Average Test Accuracy: 0.5483333333333335, MDM Classification Average Test Std: 0.03704351795148811
+subject no: 9
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.4866666666666667, MDM Classification Average Test Std: 0.048762462794426
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.026562295750848706
+MDM Classification Average Test Accuracy: 0.5583333333333333, MDM Classification Average Test Std: 0.05527707983925665
+subject no: 11
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.026140645235596893
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.02494438257849294
+MDM Classification Average Test Accuracy: 0.5216666666666667, MDM Classification Average Test Std: 0.03439961240091718
+*******************************************************************************
+subject no: 2
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.54, MDM Classification Average Test Std: 0.019293061504650356
+MDM Classification Average Test Accuracy: 0.5449999999999999, MDM Classification Average Test Std: 0.0040824829046386705
+MDM Classification Average Test Accuracy: 0.5516666666666667, MDM Classification Average Test Std: 0.011055415967851331
+subject no: 6
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5283333333333334, MDM Classification Average Test Std: 0.06182412330330468
+MDM Classification Average Test Accuracy: 0.53, MDM Classification Average Test Std: 0.05364492313143694
+MDM Classification Average Test Accuracy: 0.5183333333333333, MDM Classification Average Test Std: 0.048705463987341505
+subject no: 7
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.54, MDM Classification Average Test Std: 0.04129837231121292
+MDM Classification Average Test Accuracy: 0.545, MDM Classification Average Test Std: 0.037859388972001834
+MDM Classification Average Test Accuracy: 0.5466666666666667, MDM Classification Average Test Std: 0.035978388574871505
+subject no: 9
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.05759050847723665
+MDM Classification Average Test Accuracy: 0.5516666666666666, MDM Classification Average Test Std: 0.05093568929978711
+MDM Classification Average Test Accuracy: 0.5599999999999999, MDM Classification Average Test Std: 0.05410894360249308
+subject no: 11
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5199999999999999, MDM Classification Average Test Std: 0.03636237371545237
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.03519785346990482
+MDM Classification Average Test Accuracy: 0.515, MDM Classification Average Test Std: 0.03551212625443752
+*******************************************************************************
+subject no: 2
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5566666666666666, MDM Classification Average Test Std: 0.041965594373380564
+MDM Classification Average Test Accuracy: 0.575, MDM Classification Average Test Std: 0.06055300708194984
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.003333333333333366
+subject no: 6
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5700000000000001, MDM Classification Average Test Std: 0.03231786571610886
+MDM Classification Average Test Accuracy: 0.6033333333333333, MDM Classification Average Test Std: 0.05390320542932075
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.050717080182343124
+subject no: 7
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5283333333333333, MDM Classification Average Test Std: 0.04428443418528809
+MDM Classification Average Test Accuracy: 0.5583333333333332, MDM Classification Average Test Std: 0.029344694769431662
+MDM Classification Average Test Accuracy: 0.5483333333333335, MDM Classification Average Test Std: 0.03704351795148811
+subject no: 9
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.4866666666666667, MDM Classification Average Test Std: 0.048762462794426
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.026562295750848706
+MDM Classification Average Test Accuracy: 0.5583333333333333, MDM Classification Average Test Std: 0.05527707983925665
+subject no: 11
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.026140645235596893
+MDM Classification Average Test Accuracy: 0.5483333333333333, MDM Classification Average Test Std: 0.02494438257849294
+MDM Classification Average Test Accuracy: 0.5216666666666667, MDM Classification Average Test Std: 0.03439961240091718
+*******************************************************************************
+subject no: 2
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5566666666666666, MDM Classification Average Test Std: 0.041965594373380564
+TSC Classification Average Test Accuracy: 0.575, TSC Classification Average Test Std: 0.06055300708194984
+FgMDM Classification Average Test Accuracy: 0.5483333333333333, FgMDM Classification Average Test Std: 0.003333333333333366
+subject no: 6
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5700000000000001, MDM Classification Average Test Std: 0.03231786571610886
+TSC Classification Average Test Accuracy: 0.6033333333333333, TSC Classification Average Test Std: 0.05390320542932075
+FgMDM Classification Average Test Accuracy: 0.52, FgMDM Classification Average Test Std: 0.050717080182343124
+subject no: 7
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5283333333333333, MDM Classification Average Test Std: 0.04428443418528809
+TSC Classification Average Test Accuracy: 0.5583333333333332, TSC Classification Average Test Std: 0.029344694769431662
+FgMDM Classification Average Test Accuracy: 0.5483333333333335, FgMDM Classification Average Test Std: 0.03704351795148811
+subject no: 9
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.4866666666666667, MDM Classification Average Test Std: 0.048762462794426
+TSC Classification Average Test Accuracy: 0.5483333333333333, TSC Classification Average Test Std: 0.026562295750848706
+FgMDM Classification Average Test Accuracy: 0.5583333333333333, FgMDM Classification Average Test Std: 0.05527707983925665
+subject no: 11
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.52, MDM Classification Average Test Std: 0.026140645235596893
+TSC Classification Average Test Accuracy: 0.5483333333333333, TSC Classification Average Test Std: 0.02494438257849294
+FgMDM Classification Average Test Accuracy: 0.5216666666666667, FgMDM Classification Average Test Std: 0.03439961240091718
+*******************************************************************************
+subject no: 1
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5616666666666668, MDM Classification Average Test Std: 0.05441609239104836
+TSC Classification Average Test Accuracy: 0.6166666666666667, TSC Classification Average Test Std: 0.0550252467307306
+FgMDM Classification Average Test Accuracy: 0.6, FgMDM Classification Average Test Std: 0.057493961035534495
+subject no: 5
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5983333333333334, MDM Classification Average Test Std: 0.029533408577782246
+TSC Classification Average Test Accuracy: 0.5833333333333334, TSC Classification Average Test Std: 0.045030853620354326
+FgMDM Classification Average Test Accuracy: 0.5766666666666665, FgMDM Classification Average Test Std: 0.01779513042005217
+subject no: 8
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+MDM Classification Average Test Accuracy: 0.6437499999999999, MDM Classification Average Test Std: 0.05682575707077439
+TSC Classification Average Test Accuracy: 0.6958333333333333, TSC Classification Average Test Std: 0.05644257160060027
+FgMDM Classification Average Test Accuracy: 0.6729166666666667, FgMDM Classification Average Test Std: 0.05253966755382702
+subject no: 9
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(384, 60, 512)
+MDM Classification Average Test Accuracy: 0.6541666666666667, MDM Classification Average Test Std: 0.0799848075852186
+TSC Classification Average Test Accuracy: 0.7916666666666667, TSC Classification Average Test Std: 0.04370036867375631
+FgMDM Classification Average Test Accuracy: 0.78125, FgMDM Classification Average Test Std: 0.03486083443891983
+subject no: 10
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.5583333333333333, MDM Classification Average Test Std: 0.08644201653259961
+TSC Classification Average Test Accuracy: 0.7316666666666667, TSC Classification Average Test Std: 0.03349958540373631
+FgMDM Classification Average Test Accuracy: 0.7, FgMDM Classification Average Test Std: 0.029344694769431662
+subject no: 14
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(480, 60, 512)
+MDM Classification Average Test Accuracy: 0.6316666666666667, MDM Classification Average Test Std: 0.07735200923914862
+TSC Classification Average Test Accuracy: 0.7933333333333333, TSC Classification Average Test Std: 0.06132789830991366
+FgMDM Classification Average Test Accuracy: 0.79, FgMDM Classification Average Test Std: 0.06570134448142344

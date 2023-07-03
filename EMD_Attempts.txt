@@ -1,0 +1,26 @@
+(160, 100) (40, 100)
+accuracy: 0.425, precision: 0.43478260869565216, recall: 0.5, f1 0.46511627906976744
+pca linear performance: 
+accuracy: 0.5, precision: 0.5, recall: 0.55, f1 0.5238095238095238
+Random Forest performance: 
+accuracy: 0.525, precision: 0.5263157894736842, recall: 0.5, f1 0.5128205128205129
+MLP performance: 
+accuracy: 0.45, precision: 0.45454545454545453, recall: 0.5, f1 0.47619047619047616
+(160, 100) (40, 100)
+accuracy: 0.45, precision: 0.4583333333333333, recall: 0.55, f1 0.5
+pca linear performance: 
+accuracy: 0.45, precision: 0.45454545454545453, recall: 0.5, f1 0.47619047619047616
+Random Forest performance: 
+accuracy: 0.55, precision: 0.5625, recall: 0.45, f1 0.5
+MLP performance: 
+accuracy: 0.425, precision: 0.42857142857142855, recall: 0.45, f1 0.4390243902439024
+(160, 100) (40, 100)
+accuracy: 0.425, precision: 0.43478260869565216, recall: 0.5, f1 0.46511627906976744
+pca linear performance: 
+accuracy: 0.5, precision: 0.5, recall: 0.45, f1 0.4736842105263158
+Random Forest performance: 
+accuracy: 0.425, precision: 0.42857142857142855, recall: 0.45, f1 0.4390243902439024
+KNN: 
+accuracy: 0.375, precision: 0.391304347826087, recall: 0.45, f1 0.4186046511627907
+MLP performance: 
+accuracy: 0.35, precision: 0.3333333333333333, recall: 0.3, f1 0.3157894736842105

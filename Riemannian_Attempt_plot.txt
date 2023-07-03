@@ -1,0 +1,2113 @@
+###########################################################################
+21/06/2023 12:06:04
+Long_words
+subject no: 2
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6970, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6948, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6927, Validation Accuracy: 42.86%
+Epoch [31/300], Validation Loss: 0.6862, Validation Accuracy: 50.00%
+Epoch [41/300], Validation Loss: 0.6730, Validation Accuracy: 47.62%
+Epoch [51/300], Validation Loss: 0.6809, Validation Accuracy: 50.00%
+Epoch [61/300], Validation Loss: 0.6934, Validation Accuracy: 50.00%
+Epoch [71/300], Validation Loss: 0.7123, Validation Accuracy: 47.62%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 55.22%
+Kappa: 0.10447761194029859
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6958, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6868, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6736, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6513, Validation Accuracy: 57.14%
+Epoch [41/300], Validation Loss: 0.6305, Validation Accuracy: 61.90%
+Epoch [51/300], Validation Loss: 0.6054, Validation Accuracy: 64.29%
+Epoch [61/300], Validation Loss: 0.5775, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.5412, Validation Accuracy: 71.43%
+Epoch [81/300], Validation Loss: 0.5031, Validation Accuracy: 71.43%
+Epoch [91/300], Validation Loss: 0.4949, Validation Accuracy: 76.19%
+Epoch [101/300], Validation Loss: 0.5014, Validation Accuracy: 73.81%
+Epoch [111/300], Validation Loss: 0.5216, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.71%
+Kappa: 0.17412935323383083
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6922, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6891, Validation Accuracy: 57.14%
+Epoch [21/300], Validation Loss: 0.6927, Validation Accuracy: 54.76%
+Epoch [31/300], Validation Loss: 0.7102, Validation Accuracy: 35.71%
+Epoch [41/300], Validation Loss: 0.7635, Validation Accuracy: 40.48%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 63.13%
+Kappa: 0.26262626262626254
+accuracy: 0.59, precision: 0.5912162162162162, recall: 0.5833333333333334, f1 0.587248322147651
+Classification Average Test Accuracy: 0.590205537966732, Classification Average Test Std: 0.03235826519480527
+Average kappa score: 0.18041107593346398, Average kappa Std: 0.06471653038961055
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 3
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6953, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6954, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6968, Validation Accuracy: 33.33%
+Epoch [31/300], Validation Loss: 0.6993, Validation Accuracy: 40.48%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 51.74%
+Kappa: 0.03482587064676612
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6949, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6919, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6854, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6686, Validation Accuracy: 69.05%
+Epoch [41/300], Validation Loss: 0.6311, Validation Accuracy: 73.81%
+Epoch [51/300], Validation Loss: 0.5982, Validation Accuracy: 71.43%
+Epoch [61/300], Validation Loss: 0.6390, Validation Accuracy: 64.29%
+Epoch [71/300], Validation Loss: 0.7701, Validation Accuracy: 54.76%
+Epoch [81/300], Validation Loss: 0.9635, Validation Accuracy: 52.38%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 53.23%
+Kappa: 0.06467661691542292
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6943, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.6943, Validation Accuracy: 40.48%
+Epoch [21/300], Validation Loss: 0.6944, Validation Accuracy: 35.71%
+Epoch [31/300], Validation Loss: 0.6952, Validation Accuracy: 40.48%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 50.51%
+Kappa: 0.010101010101010166
+accuracy: 0.5183333333333333, precision: 0.5207547169811321, recall: 0.46, f1 0.48849557522123893
+Classification Average Test Accuracy: 0.5182672496105333, Classification Average Test Std: 0.011156565880637513
+Average kappa score: 0.036534499221066406, Average kappa Std: 0.022313131761275026
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 6
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6937, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6919, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6882, Validation Accuracy: 73.81%
+Epoch [31/300], Validation Loss: 0.6827, Validation Accuracy: 69.05%
+Epoch [41/300], Validation Loss: 0.6744, Validation Accuracy: 64.29%
+Epoch [51/300], Validation Loss: 0.6615, Validation Accuracy: 57.14%
+Epoch [61/300], Validation Loss: 0.6557, Validation Accuracy: 64.29%
+Epoch [71/300], Validation Loss: 0.7188, Validation Accuracy: 57.14%
+Epoch [81/300], Validation Loss: 0.8172, Validation Accuracy: 57.14%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.21%
+Kappa: 0.16417910447761197
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6948, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6938, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6932, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6917, Validation Accuracy: 54.76%
+Epoch [41/300], Validation Loss: 0.6935, Validation Accuracy: 54.76%
+Epoch [51/300], Validation Loss: 0.7025, Validation Accuracy: 52.38%
+Epoch [61/300], Validation Loss: 0.7219, Validation Accuracy: 50.00%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 59.70%
+Kappa: 0.19402985074626855
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6935, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6908, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6838, Validation Accuracy: 57.14%
+Epoch [31/300], Validation Loss: 0.6735, Validation Accuracy: 54.76%
+Epoch [41/300], Validation Loss: 0.6696, Validation Accuracy: 54.76%
+Epoch [51/300], Validation Loss: 0.6846, Validation Accuracy: 52.38%
+Epoch [61/300], Validation Loss: 0.7491, Validation Accuracy: 52.38%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 54.04%
+Kappa: 0.08080808080808088
+accuracy: 0.5733333333333334, precision: 0.579136690647482, recall: 0.5366666666666666, f1 0.5570934256055363
+Classification Average Test Accuracy: 0.5731695060053269, Classification Average Test Std: 0.02395653693464544
+Average kappa score: 0.1463390120106538, Average kappa Std: 0.04791307386929088
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 7
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6924, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6915, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6901, Validation Accuracy: 54.76%
+Epoch [31/300], Validation Loss: 0.6893, Validation Accuracy: 57.14%
+Epoch [41/300], Validation Loss: 0.7053, Validation Accuracy: 61.90%
+Epoch [51/300], Validation Loss: 0.7661, Validation Accuracy: 59.52%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 52.24%
+Kappa: 0.04477611940298498
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6937, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6930, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6930, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6946, Validation Accuracy: 45.24%
+Epoch [41/300], Validation Loss: 0.7000, Validation Accuracy: 45.24%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 53.23%
+Kappa: 0.06467661691542292
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.7013, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6986, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6972, Validation Accuracy: 42.86%
+Epoch [31/300], Validation Loss: 0.6991, Validation Accuracy: 52.38%
+Epoch [41/300], Validation Loss: 0.7044, Validation Accuracy: 71.43%
+Epoch [51/300], Validation Loss: 0.7131, Validation Accuracy: 69.05%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.08%
+Kappa: 0.16161616161616155
+accuracy: 0.545, precision: 0.5494505494505495, recall: 0.5, f1 0.5235602094240838
+Classification Average Test Accuracy: 0.5451781496557616, Classification Average Test Std: 0.025519546208307518
+Average kappa score: 0.09035629931152316, Average kappa Std: 0.051039092416615035
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 9
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.7056, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.7028, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.7012, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.7098, Validation Accuracy: 40.48%
+Epoch [41/300], Validation Loss: 0.7530, Validation Accuracy: 50.00%
+Epoch [51/300], Validation Loss: 0.7929, Validation Accuracy: 52.38%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 49.25%
+Kappa: -0.014925373134328401
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6935, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6934, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6924, Validation Accuracy: 52.38%
+Epoch [31/300], Validation Loss: 0.6913, Validation Accuracy: 61.90%
+Epoch [41/300], Validation Loss: 0.6918, Validation Accuracy: 64.29%
+Epoch [51/300], Validation Loss: 0.7135, Validation Accuracy: 59.52%
+Epoch [61/300], Validation Loss: 0.7932, Validation Accuracy: 54.76%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 55.22%
+Kappa: 0.10447761194029859
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6980, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6975, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6990, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.7077, Validation Accuracy: 35.71%
+Epoch [41/300], Validation Loss: 0.7190, Validation Accuracy: 50.00%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.10%
+Kappa: 0.202020202020202
+accuracy: 0.5483333333333333, precision: 0.5457413249211357, recall: 0.5766666666666667, f1 0.5607779578606159
+Classification Average Test Accuracy: 0.548595406804362, Classification Average Test Std: 0.0443587058671055
+Average kappa score: 0.09719081360872406, Average kappa Std: 0.088717411734211
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 11
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6932, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6947, Validation Accuracy: 57.14%
+Epoch [21/300], Validation Loss: 0.6987, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.7100, Validation Accuracy: 45.24%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 48.76%
+Kappa: -0.02487562189054726
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6953, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6939, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6939, Validation Accuracy: 47.62%
+Epoch [31/300], Validation Loss: 0.6959, Validation Accuracy: 59.52%
+Epoch [41/300], Validation Loss: 0.7085, Validation Accuracy: 57.14%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 51.24%
+Kappa: 0.02487562189054726
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6966, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6960, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6970, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.7009, Validation Accuracy: 45.24%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 55.05%
+Kappa: 0.101010101010101
+accuracy: 0.5166666666666667, precision: 0.5210084033613446, recall: 0.41333333333333333, f1 0.4609665427509294
+Classification Average Test Accuracy: 0.5168350168350169, Classification Average Test Std: 0.02588374672281519
+Average kappa score: 0.03367003367003366, Average kappa Std: 0.051767493445630385
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*******************************************************************************
+21/06/2023 13:33:07
+Short_Long_words
+subject no: 1
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6945, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6958, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6988, Validation Accuracy: 47.62%
+Epoch [31/300], Validation Loss: 0.7072, Validation Accuracy: 50.00%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.71%
+Kappa: 0.1542288557213931
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6951, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6910, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6840, Validation Accuracy: 64.29%
+Epoch [31/300], Validation Loss: 0.6691, Validation Accuracy: 52.38%
+Epoch [41/300], Validation Loss: 0.6446, Validation Accuracy: 57.14%
+Epoch [51/300], Validation Loss: 0.6122, Validation Accuracy: 64.29%
+Epoch [61/300], Validation Loss: 0.5717, Validation Accuracy: 64.29%
+Epoch [71/300], Validation Loss: 0.5396, Validation Accuracy: 69.05%
+Epoch [81/300], Validation Loss: 0.5421, Validation Accuracy: 69.05%
+Epoch [91/300], Validation Loss: 0.5772, Validation Accuracy: 71.43%
+Epoch [101/300], Validation Loss: 0.6186, Validation Accuracy: 71.43%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 70.15%
+Kappa: 0.4029850746268657
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6943, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6945, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6957, Validation Accuracy: 57.14%
+Epoch [31/300], Validation Loss: 0.7008, Validation Accuracy: 42.86%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.10%
+Kappa: 0.202020202020202
+accuracy: 0.6266666666666667, precision: 0.6091954022988506, recall: 0.7066666666666667, f1 0.6543209876543209
+Classification Average Test Accuracy: 0.6265390220614101, Classification Average Test Std: 0.05389046226864388
+Average kappa score: 0.25307804412282026, Average kappa Std: 0.10778092453728777
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 5
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6947, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.7008, Validation Accuracy: 35.71%
+Epoch [21/300], Validation Loss: 0.7309, Validation Accuracy: 45.24%
+Epoch [31/300], Validation Loss: 0.7620, Validation Accuracy: 59.52%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.69%
+Kappa: 0.2338308457711442
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6952, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6915, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6821, Validation Accuracy: 61.90%
+Epoch [31/300], Validation Loss: 0.6620, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6448, Validation Accuracy: 61.90%
+Epoch [51/300], Validation Loss: 0.6273, Validation Accuracy: 64.29%
+Epoch [61/300], Validation Loss: 0.6074, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.5887, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.5993, Validation Accuracy: 69.05%
+Epoch [91/300], Validation Loss: 0.6238, Validation Accuracy: 71.43%
+Epoch [101/300], Validation Loss: 0.6833, Validation Accuracy: 73.81%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 59.70%
+Kappa: 0.19402985074626855
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6931, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6946, Validation Accuracy: 54.76%
+Epoch [21/300], Validation Loss: 0.6967, Validation Accuracy: 42.86%
+Epoch [31/300], Validation Loss: 0.6986, Validation Accuracy: 40.48%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.63%
+Kappa: 0.2525252525252526
+accuracy: 0.6133333333333333, precision: 0.5955056179775281, recall: 0.7066666666666667, f1 0.6463414634146342
+Classification Average Test Accuracy: 0.6133976581737776, Classification Average Test Std: 0.012196666300153725
+Average kappa score: 0.22679531634755512, Average kappa Std: 0.02439333260030745
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 8
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(285,) (33,) (162,)
+Epoch [1/300], Validation Loss: 0.6898, Validation Accuracy: 54.55%
+Epoch [11/300], Validation Loss: 0.6895, Validation Accuracy: 54.55%
+Epoch [21/300], Validation Loss: 0.6889, Validation Accuracy: 54.55%
+Epoch [31/300], Validation Loss: 0.6869, Validation Accuracy: 60.61%
+Epoch [41/300], Validation Loss: 0.6812, Validation Accuracy: 51.52%
+Epoch [51/300], Validation Loss: 0.6753, Validation Accuracy: 57.58%
+Epoch [61/300], Validation Loss: 0.6744, Validation Accuracy: 63.64%
+Epoch [71/300], Validation Loss: 0.6928, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.7373, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 69.75%
+Kappa: 0.3950617283950617
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6959, Validation Accuracy: 45.45%
+Epoch [11/300], Validation Loss: 0.6929, Validation Accuracy: 45.45%
+Epoch [21/300], Validation Loss: 0.6878, Validation Accuracy: 51.52%
+Epoch [31/300], Validation Loss: 0.6750, Validation Accuracy: 69.70%
+Epoch [41/300], Validation Loss: 0.6406, Validation Accuracy: 81.82%
+Epoch [51/300], Validation Loss: 0.5905, Validation Accuracy: 72.73%
+Epoch [61/300], Validation Loss: 0.5742, Validation Accuracy: 69.70%
+Epoch [71/300], Validation Loss: 0.6110, Validation Accuracy: 69.70%
+Epoch [81/300], Validation Loss: 0.6777, Validation Accuracy: 69.70%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.26%
+Kappa: 0.24528301886792447
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6925, Validation Accuracy: 51.52%
+Epoch [11/300], Validation Loss: 0.6899, Validation Accuracy: 69.70%
+Epoch [21/300], Validation Loss: 0.6837, Validation Accuracy: 72.73%
+Epoch [31/300], Validation Loss: 0.6636, Validation Accuracy: 75.76%
+Epoch [41/300], Validation Loss: 0.6183, Validation Accuracy: 75.76%
+Epoch [51/300], Validation Loss: 0.5335, Validation Accuracy: 81.82%
+Epoch [61/300], Validation Loss: 0.4455, Validation Accuracy: 81.82%
+Epoch [71/300], Validation Loss: 0.4074, Validation Accuracy: 81.82%
+Epoch [81/300], Validation Loss: 0.4058, Validation Accuracy: 81.82%
+Epoch [91/300], Validation Loss: 0.4297, Validation Accuracy: 81.82%
+Epoch [101/300], Validation Loss: 0.4481, Validation Accuracy: 81.82%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 74.84%
+Kappa: 0.4968553459119496
+accuracy: 0.6895833333333333, precision: 0.6812749003984063, recall: 0.7125, f1 0.6965376782077394
+Classification Average Test Accuracy: 0.6895333488624894, Classification Average Test Std: 0.05166242943085616
+Average kappa score: 0.3790666977249786, Average kappa Std: 0.10332485886171232
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 9
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(285,) (33,) (162,)
+Epoch [1/300], Validation Loss: 0.6927, Validation Accuracy: 54.55%
+Epoch [11/300], Validation Loss: 0.6913, Validation Accuracy: 60.61%
+Epoch [21/300], Validation Loss: 0.6888, Validation Accuracy: 72.73%
+Epoch [31/300], Validation Loss: 0.6803, Validation Accuracy: 72.73%
+Epoch [41/300], Validation Loss: 0.6551, Validation Accuracy: 72.73%
+Epoch [51/300], Validation Loss: 0.6140, Validation Accuracy: 72.73%
+Epoch [61/300], Validation Loss: 0.6244, Validation Accuracy: 69.70%
+Epoch [71/300], Validation Loss: 0.7286, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.8660, Validation Accuracy: 63.64%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 82.10%
+Kappa: 0.6419753086419753
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6896, Validation Accuracy: 54.55%
+Epoch [11/300], Validation Loss: 0.6879, Validation Accuracy: 54.55%
+Epoch [21/300], Validation Loss: 0.6814, Validation Accuracy: 54.55%
+Epoch [31/300], Validation Loss: 0.6584, Validation Accuracy: 84.85%
+Epoch [41/300], Validation Loss: 0.5928, Validation Accuracy: 81.82%
+Epoch [51/300], Validation Loss: 0.4960, Validation Accuracy: 81.82%
+Epoch [61/300], Validation Loss: 0.4228, Validation Accuracy: 87.88%
+Epoch [71/300], Validation Loss: 0.3955, Validation Accuracy: 90.91%
+Epoch [81/300], Validation Loss: 0.3990, Validation Accuracy: 84.85%
+Epoch [91/300], Validation Loss: 0.4147, Validation Accuracy: 84.85%
+Epoch [101/300], Validation Loss: 0.4416, Validation Accuracy: 84.85%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 81.76%
+Kappa: 0.6352201257861636
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6939, Validation Accuracy: 45.45%
+Epoch [11/300], Validation Loss: 0.6903, Validation Accuracy: 54.55%
+Epoch [21/300], Validation Loss: 0.6783, Validation Accuracy: 81.82%
+Epoch [31/300], Validation Loss: 0.6443, Validation Accuracy: 78.79%
+Epoch [41/300], Validation Loss: 0.5708, Validation Accuracy: 81.82%
+Epoch [51/300], Validation Loss: 0.4747, Validation Accuracy: 81.82%
+Epoch [61/300], Validation Loss: 0.4025, Validation Accuracy: 75.76%
+Epoch [71/300], Validation Loss: 0.3687, Validation Accuracy: 78.79%
+Epoch [81/300], Validation Loss: 0.3571, Validation Accuracy: 78.79%
+Epoch [91/300], Validation Loss: 0.3665, Validation Accuracy: 75.76%
+Epoch [101/300], Validation Loss: 0.3719, Validation Accuracy: 78.79%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 83.02%
+Kappa: 0.6603773584905661
+accuracy: 0.8229166666666666, precision: 0.8112449799196787, recall: 0.8416666666666667, f1 0.8261758691206544
+Classification Average Test Accuracy: 0.8229287988197841, Classification Average Test Std: 0.00531547607199156
+Average kappa score: 0.6458575976395683, Average kappa Std: 0.01063095214398312
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 10
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6999, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6970, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6933, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6893, Validation Accuracy: 50.00%
+Epoch [41/300], Validation Loss: 0.6808, Validation Accuracy: 64.29%
+Epoch [51/300], Validation Loss: 0.6888, Validation Accuracy: 59.52%
+Epoch [61/300], Validation Loss: 0.7649, Validation Accuracy: 57.14%
+Epoch [71/300], Validation Loss: 0.8879, Validation Accuracy: 64.29%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.17%
+Kappa: 0.3034825870646767
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6950, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6924, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6864, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6687, Validation Accuracy: 61.90%
+Epoch [41/300], Validation Loss: 0.6319, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5865, Validation Accuracy: 71.43%
+Epoch [61/300], Validation Loss: 0.5910, Validation Accuracy: 73.81%
+Epoch [71/300], Validation Loss: 0.6579, Validation Accuracy: 71.43%
+Epoch [81/300], Validation Loss: 0.7243, Validation Accuracy: 71.43%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.16%
+Kappa: 0.34328358208955234
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6942, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6930, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6906, Validation Accuracy: 54.76%
+Epoch [31/300], Validation Loss: 0.6829, Validation Accuracy: 61.90%
+Epoch [41/300], Validation Loss: 0.6534, Validation Accuracy: 59.52%
+Epoch [51/300], Validation Loss: 0.5816, Validation Accuracy: 69.05%
+Epoch [61/300], Validation Loss: 0.5149, Validation Accuracy: 76.19%
+Epoch [71/300], Validation Loss: 0.5064, Validation Accuracy: 78.57%
+Epoch [81/300], Validation Loss: 0.5204, Validation Accuracy: 78.57%
+Epoch [91/300], Validation Loss: 0.5623, Validation Accuracy: 78.57%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 69.70%
+Kappa: 0.39393939393939403
+accuracy: 0.6733333333333333, precision: 0.667741935483871, recall: 0.69, f1 0.6786885245901639
+Classification Average Test Accuracy: 0.6734509271822704, Classification Average Test Std: 0.018508679937552012
+Average kappa score: 0.346901854364541, Average kappa Std: 0.037017359875104024
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 14
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6940, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6875, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6725, Validation Accuracy: 71.43%
+Epoch [31/300], Validation Loss: 0.6294, Validation Accuracy: 78.57%
+Epoch [41/300], Validation Loss: 0.5352, Validation Accuracy: 80.95%
+Epoch [51/300], Validation Loss: 0.4195, Validation Accuracy: 85.71%
+Epoch [61/300], Validation Loss: 0.3618, Validation Accuracy: 88.10%
+Epoch [71/300], Validation Loss: 0.3447, Validation Accuracy: 88.10%
+Epoch [81/300], Validation Loss: 0.3627, Validation Accuracy: 88.10%
+Epoch [91/300], Validation Loss: 0.3782, Validation Accuracy: 88.10%
+Epoch [101/300], Validation Loss: 0.3888, Validation Accuracy: 88.10%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 78.61%
+Kappa: 0.572139303482587
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6931, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6868, Validation Accuracy: 52.38%
+Epoch [21/300], Validation Loss: 0.6733, Validation Accuracy: 69.05%
+Epoch [31/300], Validation Loss: 0.6393, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5716, Validation Accuracy: 71.43%
+Epoch [51/300], Validation Loss: 0.5023, Validation Accuracy: 71.43%
+Epoch [61/300], Validation Loss: 0.4868, Validation Accuracy: 73.81%
+Epoch [71/300], Validation Loss: 0.5163, Validation Accuracy: 73.81%
+Epoch [81/300], Validation Loss: 0.5437, Validation Accuracy: 73.81%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 80.10%
+Kappa: 0.6019900497512438
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6946, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6951, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6951, Validation Accuracy: 52.38%
+Epoch [31/300], Validation Loss: 0.6937, Validation Accuracy: 50.00%
+Epoch [41/300], Validation Loss: 0.6826, Validation Accuracy: 61.90%
+Epoch [51/300], Validation Loss: 0.5678, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.4475, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.4038, Validation Accuracy: 73.81%
+Epoch [81/300], Validation Loss: 0.3911, Validation Accuracy: 73.81%
+Epoch [91/300], Validation Loss: 0.4051, Validation Accuracy: 73.81%
+Epoch [101/300], Validation Loss: 0.4060, Validation Accuracy: 73.81%
+Epoch [111/300], Validation Loss: 0.4069, Validation Accuracy: 76.19%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 80.30%
+Kappa: 0.606060606060606
+accuracy: 0.7966666666666666, precision: 0.7927631578947368, recall: 0.8033333333333333, f1 0.7980132450331126
+Classification Average Test Accuracy: 0.7966983265490728, Classification Average Test Std: 0.0075613991394393905
+Average kappa score: 0.5933966530981456, Average kappa Std: 0.015122798278878781
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*******************************************************************************
+21/06/2023 14:53:15
+Short_Long_words
+subject no: 1
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6944, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6949, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6971, Validation Accuracy: 52.38%
+Epoch [31/300], Validation Loss: 0.7071, Validation Accuracy: 45.24%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.70%
+Kappa: 0.2139303482587065
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6930, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6910, Validation Accuracy: 57.14%
+Epoch [21/300], Validation Loss: 0.6867, Validation Accuracy: 64.29%
+Epoch [31/300], Validation Loss: 0.6758, Validation Accuracy: 64.29%
+Epoch [41/300], Validation Loss: 0.6546, Validation Accuracy: 61.90%
+Epoch [51/300], Validation Loss: 0.6202, Validation Accuracy: 64.29%
+Epoch [61/300], Validation Loss: 0.5817, Validation Accuracy: 71.43%
+Epoch [71/300], Validation Loss: 0.5623, Validation Accuracy: 71.43%
+Epoch [81/300], Validation Loss: 0.5843, Validation Accuracy: 71.43%
+Epoch [91/300], Validation Loss: 0.6281, Validation Accuracy: 71.43%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 70.65%
+Kappa: 0.4129353233830846
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6929, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6937, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6957, Validation Accuracy: 28.57%
+Epoch [31/300], Validation Loss: 0.7031, Validation Accuracy: 42.86%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.11%
+Kappa: 0.22222222222222232
+accuracy: 0.6416666666666667, precision: 0.6480836236933798, recall: 0.62, f1 0.6337308347529812
+Classification Average Test Accuracy: 0.6415146489773356, Classification Average Test Std: 0.045959892615577355
+Average kappa score: 0.28302929795467113, Average kappa Std: 0.09191978523115471
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 5
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.7090, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.7100, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.7298, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.7414, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.71%
+Kappa: 0.17412935323383083
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6925, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6891, Validation Accuracy: 61.90%
+Epoch [21/300], Validation Loss: 0.6790, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6569, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6363, Validation Accuracy: 73.81%
+Epoch [51/300], Validation Loss: 0.6180, Validation Accuracy: 69.05%
+Epoch [61/300], Validation Loss: 0.5940, Validation Accuracy: 71.43%
+Epoch [71/300], Validation Loss: 0.5767, Validation Accuracy: 71.43%
+Epoch [81/300], Validation Loss: 0.5801, Validation Accuracy: 69.05%
+Epoch [91/300], Validation Loss: 0.6185, Validation Accuracy: 69.05%
+Epoch [101/300], Validation Loss: 0.6605, Validation Accuracy: 69.05%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.71%
+Kappa: 0.1542288557213931
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6990, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6977, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6991, Validation Accuracy: 45.24%
+Epoch [31/300], Validation Loss: 0.7025, Validation Accuracy: 38.10%
+Epoch [41/300], Validation Loss: 0.6976, Validation Accuracy: 42.86%
+Epoch [51/300], Validation Loss: 0.6890, Validation Accuracy: 47.62%
+Epoch [61/300], Validation Loss: 0.6769, Validation Accuracy: 64.29%
+Epoch [71/300], Validation Loss: 0.6609, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.6776, Validation Accuracy: 69.05%
+Epoch [91/300], Validation Loss: 0.7165, Validation Accuracy: 71.43%
+Epoch [101/300], Validation Loss: 0.7483, Validation Accuracy: 73.81%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 59.60%
+Kappa: 0.19191919191919182
+accuracy: 0.5866666666666667, precision: 0.5878378378378378, recall: 0.58, f1 0.5838926174496644
+Classification Average Test Accuracy: 0.586712900145736, Classification Average Test Std: 0.007697527749574322
+Average kappa score: 0.17342580029147192, Average kappa Std: 0.015395055499148644
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 8
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(285,) (33,) (162,)
+Epoch [1/300], Validation Loss: 0.6883, Validation Accuracy: 54.55%
+Epoch [11/300], Validation Loss: 0.6874, Validation Accuracy: 54.55%
+Epoch [21/300], Validation Loss: 0.6851, Validation Accuracy: 57.58%
+Epoch [31/300], Validation Loss: 0.6792, Validation Accuracy: 63.64%
+Epoch [41/300], Validation Loss: 0.6728, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6640, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6519, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6523, Validation Accuracy: 69.70%
+Epoch [81/300], Validation Loss: 0.6886, Validation Accuracy: 69.70%
+Epoch [91/300], Validation Loss: 0.7279, Validation Accuracy: 72.73%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 68.52%
+Kappa: 0.37037037037037046
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6962, Validation Accuracy: 45.45%
+Epoch [11/300], Validation Loss: 0.6912, Validation Accuracy: 45.45%
+Epoch [21/300], Validation Loss: 0.6806, Validation Accuracy: 51.52%
+Epoch [31/300], Validation Loss: 0.6524, Validation Accuracy: 63.64%
+Epoch [41/300], Validation Loss: 0.5922, Validation Accuracy: 72.73%
+Epoch [51/300], Validation Loss: 0.5207, Validation Accuracy: 69.70%
+Epoch [61/300], Validation Loss: 0.4898, Validation Accuracy: 69.70%
+Epoch [71/300], Validation Loss: 0.5203, Validation Accuracy: 72.73%
+Epoch [81/300], Validation Loss: 0.5746, Validation Accuracy: 72.73%
+Epoch [91/300], Validation Loss: 0.6445, Validation Accuracy: 72.73%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 59.75%
+Kappa: 0.19496855345911945
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6993, Validation Accuracy: 45.45%
+Epoch [11/300], Validation Loss: 0.6923, Validation Accuracy: 45.45%
+Epoch [21/300], Validation Loss: 0.6782, Validation Accuracy: 57.58%
+Epoch [31/300], Validation Loss: 0.6451, Validation Accuracy: 69.70%
+Epoch [41/300], Validation Loss: 0.5872, Validation Accuracy: 69.70%
+Epoch [51/300], Validation Loss: 0.5059, Validation Accuracy: 84.85%
+Epoch [61/300], Validation Loss: 0.4328, Validation Accuracy: 84.85%
+Epoch [71/300], Validation Loss: 0.3914, Validation Accuracy: 84.85%
+Epoch [81/300], Validation Loss: 0.3809, Validation Accuracy: 87.88%
+Epoch [91/300], Validation Loss: 0.3927, Validation Accuracy: 84.85%
+Epoch [101/300], Validation Loss: 0.4125, Validation Accuracy: 84.85%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 75.47%
+Kappa: 0.509433962264151
+accuracy: 0.6791666666666667, precision: 0.6747967479674797, recall: 0.6916666666666667, f1 0.6831275720164609
+Classification Average Test Accuracy: 0.6791288143489401, Classification Average Test Std: 0.0643326798976063
+Average kappa score: 0.3582576286978803, Average kappa Std: 0.1286653597952126
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 9
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(285,) (33,) (162,)
+Epoch [1/300], Validation Loss: 0.6927, Validation Accuracy: 51.52%
+Epoch [11/300], Validation Loss: 0.6910, Validation Accuracy: 63.64%
+Epoch [21/300], Validation Loss: 0.6864, Validation Accuracy: 60.61%
+Epoch [31/300], Validation Loss: 0.6733, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6437, Validation Accuracy: 69.70%
+Epoch [51/300], Validation Loss: 0.6119, Validation Accuracy: 63.64%
+Epoch [61/300], Validation Loss: 0.6416, Validation Accuracy: 63.64%
+Epoch [71/300], Validation Loss: 0.7479, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.8860, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 83.95%
+Kappa: 0.6790123456790123
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6928, Validation Accuracy: 54.55%
+Epoch [11/300], Validation Loss: 0.6896, Validation Accuracy: 60.61%
+Epoch [21/300], Validation Loss: 0.6808, Validation Accuracy: 75.76%
+Epoch [31/300], Validation Loss: 0.6519, Validation Accuracy: 72.73%
+Epoch [41/300], Validation Loss: 0.5788, Validation Accuracy: 75.76%
+Epoch [51/300], Validation Loss: 0.4834, Validation Accuracy: 78.79%
+Epoch [61/300], Validation Loss: 0.4272, Validation Accuracy: 81.82%
+Epoch [71/300], Validation Loss: 0.4178, Validation Accuracy: 81.82%
+Epoch [81/300], Validation Loss: 0.4349, Validation Accuracy: 78.79%
+Epoch [91/300], Validation Loss: 0.4667, Validation Accuracy: 78.79%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 83.65%
+Kappa: 0.6729559748427674
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(288,) (33,) (159,)
+Epoch [1/300], Validation Loss: 0.6997, Validation Accuracy: 45.45%
+Epoch [11/300], Validation Loss: 0.6965, Validation Accuracy: 45.45%
+Epoch [21/300], Validation Loss: 0.6901, Validation Accuracy: 45.45%
+Epoch [31/300], Validation Loss: 0.6684, Validation Accuracy: 45.45%
+Epoch [41/300], Validation Loss: 0.6228, Validation Accuracy: 69.70%
+Epoch [51/300], Validation Loss: 0.5886, Validation Accuracy: 75.76%
+Epoch [61/300], Validation Loss: 0.5615, Validation Accuracy: 72.73%
+Epoch [71/300], Validation Loss: 0.5357, Validation Accuracy: 75.76%
+Epoch [81/300], Validation Loss: 0.5071, Validation Accuracy: 75.76%
+Epoch [91/300], Validation Loss: 0.5044, Validation Accuracy: 75.76%
+Epoch [101/300], Validation Loss: 0.5046, Validation Accuracy: 72.73%
+Epoch [111/300], Validation Loss: 0.5120, Validation Accuracy: 75.76%
+Epoch [121/300], Validation Loss: 0.5227, Validation Accuracy: 75.76%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 77.36%
+Kappa: 0.5471698113207548
+accuracy: 0.8166666666666667, precision: 0.796875, recall: 0.85, f1 0.8225806451612903
+Classification Average Test Accuracy: 0.8165230219737557, Classification Average Test Std: 0.03038699119840086
+Average kappa score: 0.6330460439475115, Average kappa Std: 0.06077398239680172
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 10
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6938, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6925, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6909, Validation Accuracy: 61.90%
+Epoch [31/300], Validation Loss: 0.6868, Validation Accuracy: 57.14%
+Epoch [41/300], Validation Loss: 0.6764, Validation Accuracy: 59.52%
+Epoch [51/300], Validation Loss: 0.6695, Validation Accuracy: 57.14%
+Epoch [61/300], Validation Loss: 0.7058, Validation Accuracy: 61.90%
+Epoch [71/300], Validation Loss: 0.8046, Validation Accuracy: 64.29%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.66%
+Kappa: 0.3532338308457712
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6954, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6905, Validation Accuracy: 54.76%
+Epoch [21/300], Validation Loss: 0.6806, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6631, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6352, Validation Accuracy: 57.14%
+Epoch [51/300], Validation Loss: 0.6020, Validation Accuracy: 59.52%
+Epoch [61/300], Validation Loss: 0.5844, Validation Accuracy: 69.05%
+Epoch [71/300], Validation Loss: 0.5897, Validation Accuracy: 73.81%
+Epoch [81/300], Validation Loss: 0.6238, Validation Accuracy: 71.43%
+Epoch [91/300], Validation Loss: 0.6963, Validation Accuracy: 73.81%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 69.65%
+Kappa: 0.39303482587064686
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6947, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6943, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6941, Validation Accuracy: 54.76%
+Epoch [31/300], Validation Loss: 0.6911, Validation Accuracy: 64.29%
+Epoch [41/300], Validation Loss: 0.6620, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5972, Validation Accuracy: 71.43%
+Epoch [61/300], Validation Loss: 0.5509, Validation Accuracy: 78.57%
+Epoch [71/300], Validation Loss: 0.5477, Validation Accuracy: 80.95%
+Epoch [81/300], Validation Loss: 0.5786, Validation Accuracy: 78.57%
+Epoch [91/300], Validation Loss: 0.5991, Validation Accuracy: 78.57%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.17%
+Kappa: 0.3434343434343434
+accuracy: 0.6816666666666666, precision: 0.6798679867986799, recall: 0.6866666666666666, f1 0.6832504145936983
+Classification Average Test Accuracy: 0.6816171666917935, Classification Average Test Std: 0.010724267673017422
+Average kappa score: 0.3632343333835872, Average kappa Std: 0.021448535346034844
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 14
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6989, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6936, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6819, Validation Accuracy: 50.00%
+Epoch [31/300], Validation Loss: 0.6495, Validation Accuracy: 71.43%
+Epoch [41/300], Validation Loss: 0.5672, Validation Accuracy: 76.19%
+Epoch [51/300], Validation Loss: 0.4300, Validation Accuracy: 80.95%
+Epoch [61/300], Validation Loss: 0.3352, Validation Accuracy: 88.10%
+Epoch [71/300], Validation Loss: 0.3090, Validation Accuracy: 88.10%
+Epoch [81/300], Validation Loss: 0.3175, Validation Accuracy: 88.10%
+Epoch [91/300], Validation Loss: 0.3295, Validation Accuracy: 88.10%
+Epoch [101/300], Validation Loss: 0.3502, Validation Accuracy: 88.10%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 78.61%
+Kappa: 0.572139303482587
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(357,) (42,) (201,)
+Epoch [1/300], Validation Loss: 0.6933, Validation Accuracy: 42.86%
+Epoch [11/300], Validation Loss: 0.6894, Validation Accuracy: 69.05%
+Epoch [21/300], Validation Loss: 0.6796, Validation Accuracy: 64.29%
+Epoch [31/300], Validation Loss: 0.6469, Validation Accuracy: 69.05%
+Epoch [41/300], Validation Loss: 0.5670, Validation Accuracy: 71.43%
+Epoch [51/300], Validation Loss: 0.4893, Validation Accuracy: 73.81%
+Epoch [61/300], Validation Loss: 0.4771, Validation Accuracy: 78.57%
+Epoch [71/300], Validation Loss: 0.5182, Validation Accuracy: 76.19%
+Epoch [81/300], Validation Loss: 0.5866, Validation Accuracy: 76.19%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 80.60%
+Kappa: 0.6119402985074627
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(360,) (42,) (198,)
+Epoch [1/300], Validation Loss: 0.6953, Validation Accuracy: 50.00%
+Epoch [11/300], Validation Loss: 0.6943, Validation Accuracy: 50.00%
+Epoch [21/300], Validation Loss: 0.6922, Validation Accuracy: 42.86%
+Epoch [31/300], Validation Loss: 0.6906, Validation Accuracy: 59.52%
+Epoch [41/300], Validation Loss: 0.6765, Validation Accuracy: 64.29%
+Epoch [51/300], Validation Loss: 0.5668, Validation Accuracy: 71.43%
+Epoch [61/300], Validation Loss: 0.4282, Validation Accuracy: 73.81%
+Epoch [71/300], Validation Loss: 0.3872, Validation Accuracy: 76.19%
+Epoch [81/300], Validation Loss: 0.3808, Validation Accuracy: 78.57%
+Epoch [91/300], Validation Loss: 0.3848, Validation Accuracy: 83.33%
+Epoch [101/300], Validation Loss: 0.3756, Validation Accuracy: 78.57%
+Epoch [111/300], Validation Loss: 0.4254, Validation Accuracy: 80.95%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 78.79%
+Kappa: 0.5757575757575757
+accuracy: 0.7933333333333333, precision: 0.7953020134228188, recall: 0.79, f1 0.7926421404682275
+Classification Average Test Accuracy: 0.793306196291271, Classification Average Test Std: 0.008985173783055243
+Average kappa score: 0.5866123925825418, Average kappa Std: 0.01797034756611049
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*******************************************************************************
+21/06/2023 16:12:36
+Short_words
+subject no: 1
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0145, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.8604, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7082, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.7109, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.7443, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.8029, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.00%
+Kappa: 0.4
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1404, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9705, Validation Accuracy: 51.39%
+Epoch [21/300], Validation Loss: 0.7476, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.7207, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.7315, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.7682, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1482, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 1.0198, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7236, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6781, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6763, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6947, Validation Accuracy: 65.28%
+Epoch [61/300], Validation Loss: 0.7504, Validation Accuracy: 61.11%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0607, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9696, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6828, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6310, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6196, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6221, Validation Accuracy: 69.44%
+Epoch [61/300], Validation Loss: 0.6541, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.7001, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.22%
+Kappa: 0.43333333333333346
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0881, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9523, Validation Accuracy: 55.56%
+Epoch [21/300], Validation Loss: 0.7185, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6948, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.7041, Validation Accuracy: 65.28%
+Epoch [51/300], Validation Loss: 0.7421, Validation Accuracy: 65.28%
+Epoch [61/300], Validation Loss: 0.8149, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+accuracy: 0.6388888888888888, precision: 0.676962676962677, recall: 0.8766666666666667, f1 0.7639796659404503
+Classification Average Test Accuracy: 0.6388888888888888, Classification Average Test Std: 0.028760398012321775
+Average kappa score: 0.4583333333333335, Average kappa Std: 0.043140597018482676
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 3
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 0.9985, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.8792, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6769, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6385, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6325, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6268, Validation Accuracy: 69.44%
+Epoch [61/300], Validation Loss: 0.6248, Validation Accuracy: 76.39%
+Epoch [71/300], Validation Loss: 0.6468, Validation Accuracy: 77.78%
+Epoch [81/300], Validation Loss: 0.7020, Validation Accuracy: 76.39%
+Epoch [91/300], Validation Loss: 0.7796, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1599, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9504, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7068, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6589, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6369, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6228, Validation Accuracy: 72.22%
+Epoch [61/300], Validation Loss: 0.6136, Validation Accuracy: 72.22%
+Epoch [71/300], Validation Loss: 0.6167, Validation Accuracy: 72.22%
+Epoch [81/300], Validation Loss: 0.6374, Validation Accuracy: 73.61%
+Epoch [91/300], Validation Loss: 0.6829, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 68.33%
+Kappa: 0.5250000000000001
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0557, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9157, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7122, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6456, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6301, Validation Accuracy: 69.44%
+Epoch [51/300], Validation Loss: 0.6256, Validation Accuracy: 70.83%
+Epoch [61/300], Validation Loss: 0.6244, Validation Accuracy: 70.83%
+Epoch [71/300], Validation Loss: 0.6270, Validation Accuracy: 73.61%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 63.89%
+Kappa: 0.45833333333333337
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0528, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9887, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7608, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6465, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6299, Validation Accuracy: 75.00%
+Epoch [51/300], Validation Loss: 0.6378, Validation Accuracy: 80.56%
+Epoch [61/300], Validation Loss: 0.6512, Validation Accuracy: 76.39%
+Epoch [71/300], Validation Loss: 0.6766, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.78%
+Kappa: 0.5166666666666668
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0779, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9177, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7361, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6941, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6833, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6852, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6898, Validation Accuracy: 63.89%
+Epoch [71/300], Validation Loss: 0.7212, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+accuracy: 0.6511111111111111, precision: 0.7037037037037037, recall: 0.8233333333333334, f1 0.7588325652841783
+Classification Average Test Accuracy: 0.6511111111111111, Classification Average Test Std: 0.024444444444444467
+Average kappa score: 0.47666666666666674, Average kappa Std: 0.036666666666666695
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 5
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0350, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.8013, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6419, Validation Accuracy: 65.28%
+Epoch [31/300], Validation Loss: 0.6122, Validation Accuracy: 65.28%
+Epoch [41/300], Validation Loss: 0.6052, Validation Accuracy: 63.89%
+Epoch [51/300], Validation Loss: 0.6037, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6100, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6242, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 64.44%
+Kappa: 0.4666666666666668
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0886, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.8815, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6615, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6297, Validation Accuracy: 69.44%
+Epoch [41/300], Validation Loss: 0.6198, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6221, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6307, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6465, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 71.11%
+Kappa: 0.5666666666666668
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1177, Validation Accuracy: 5.56%
+Epoch [11/300], Validation Loss: 0.9770, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7112, Validation Accuracy: 62.50%
+Epoch [31/300], Validation Loss: 0.6701, Validation Accuracy: 58.33%
+Epoch [41/300], Validation Loss: 0.6581, Validation Accuracy: 59.72%
+Epoch [51/300], Validation Loss: 0.6563, Validation Accuracy: 59.72%
+Epoch [61/300], Validation Loss: 0.6617, Validation Accuracy: 61.11%
+Epoch [71/300], Validation Loss: 0.6761, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1442, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9218, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7287, Validation Accuracy: 70.83%
+Epoch [31/300], Validation Loss: 0.6817, Validation Accuracy: 70.83%
+Epoch [41/300], Validation Loss: 0.6615, Validation Accuracy: 70.83%
+Epoch [51/300], Validation Loss: 0.6510, Validation Accuracy: 70.83%
+Epoch [61/300], Validation Loss: 0.6443, Validation Accuracy: 70.83%
+Epoch [71/300], Validation Loss: 0.6393, Validation Accuracy: 73.61%
+Epoch [81/300], Validation Loss: 0.6392, Validation Accuracy: 75.00%
+Epoch [91/300], Validation Loss: 0.6535, Validation Accuracy: 75.00%
+Epoch [101/300], Validation Loss: 0.6837, Validation Accuracy: 72.22%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.56%
+Kappa: 0.4083333333333333
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0944, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9232, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7137, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6699, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6555, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6451, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6356, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.6296, Validation Accuracy: 62.50%
+Epoch [81/300], Validation Loss: 0.6223, Validation Accuracy: 59.72%
+Epoch [91/300], Validation Loss: 0.6203, Validation Accuracy: 66.67%
+Epoch [101/300], Validation Loss: 0.6398, Validation Accuracy: 68.06%
+Epoch [111/300], Validation Loss: 0.6688, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.56%
+Kappa: 0.4833333333333334
+accuracy: 0.6488888888888888, precision: 0.6848958333333334, recall: 0.8766666666666667, f1 0.7690058479532165
+Classification Average Test Accuracy: 0.6488888888888888, Classification Average Test Std: 0.03538151850686815
+Average kappa score: 0.47333333333333344, Average kappa Std: 0.05307227776030221
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 8
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0739, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9004, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6875, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6479, Validation Accuracy: 65.28%
+Epoch [41/300], Validation Loss: 0.6436, Validation Accuracy: 62.50%
+Epoch [51/300], Validation Loss: 0.6559, Validation Accuracy: 55.56%
+Epoch [61/300], Validation Loss: 0.6902, Validation Accuracy: 61.11%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0775, Validation Accuracy: 55.56%
+Epoch [11/300], Validation Loss: 0.9695, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6990, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6067, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5830, Validation Accuracy: 62.50%
+Epoch [51/300], Validation Loss: 0.5755, Validation Accuracy: 62.50%
+Epoch [61/300], Validation Loss: 0.5821, Validation Accuracy: 63.89%
+Epoch [71/300], Validation Loss: 0.5999, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 64.44%
+Kappa: 0.4666666666666668
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1416, Validation Accuracy: 1.39%
+Epoch [11/300], Validation Loss: 1.0174, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.8639, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.7756, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.7592, Validation Accuracy: 62.50%
+Epoch [51/300], Validation Loss: 0.8253, Validation Accuracy: 62.50%
+Epoch [61/300], Validation Loss: 0.9215, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 72.22%
+Kappa: 0.5833333333333334
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1154, Validation Accuracy: 2.78%
+Epoch [11/300], Validation Loss: 0.9711, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7622, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6719, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6415, Validation Accuracy: 65.28%
+Epoch [51/300], Validation Loss: 0.6166, Validation Accuracy: 61.11%
+Epoch [61/300], Validation Loss: 0.5970, Validation Accuracy: 61.11%
+Epoch [71/300], Validation Loss: 0.5780, Validation Accuracy: 62.50%
+Epoch [81/300], Validation Loss: 0.5655, Validation Accuracy: 61.11%
+Epoch [91/300], Validation Loss: 0.5850, Validation Accuracy: 61.11%
+Epoch [101/300], Validation Loss: 0.6000, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.00%
+Kappa: 0.4
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0971, Validation Accuracy: 61.11%
+Epoch [11/300], Validation Loss: 0.9897, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7804, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6841, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6517, Validation Accuracy: 62.50%
+Epoch [51/300], Validation Loss: 0.6345, Validation Accuracy: 62.50%
+Epoch [61/300], Validation Loss: 0.6302, Validation Accuracy: 63.89%
+Epoch [71/300], Validation Loss: 0.6450, Validation Accuracy: 62.50%
+Epoch [81/300], Validation Loss: 0.6664, Validation Accuracy: 58.33%
+Epoch [91/300], Validation Loss: 0.6996, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.78%
+Kappa: 0.3666666666666667
+accuracy: 0.6344444444444445, precision: 0.6989720998531571, recall: 0.7933333333333333, f1 0.7431693989071038
+Classification Average Test Accuracy: 0.6344444444444445, Classification Average Test Std: 0.049491238780711315
+Average kappa score: 0.45166666666666677, Average kappa Std: 0.07423685817106697
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 12
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1079, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9679, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6930, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6318, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6125, Validation Accuracy: 68.06%
+Epoch [51/300], Validation Loss: 0.6260, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.6781, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.8090, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.00%
+Kappa: 0.4750000000000001
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1133, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9996, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7238, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6438, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6064, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5804, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.5905, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6220, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.7097, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 73.33%
+Kappa: 0.6
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1697, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 1.0129, Validation Accuracy: 69.44%
+Epoch [21/300], Validation Loss: 0.7141, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6368, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5894, Validation Accuracy: 73.61%
+Epoch [51/300], Validation Loss: 0.5551, Validation Accuracy: 75.00%
+Epoch [61/300], Validation Loss: 0.5305, Validation Accuracy: 77.78%
+Epoch [71/300], Validation Loss: 0.5438, Validation Accuracy: 75.00%
+Epoch [81/300], Validation Loss: 0.5797, Validation Accuracy: 75.00%
+Epoch [91/300], Validation Loss: 0.6540, Validation Accuracy: 75.00%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 63.89%
+Kappa: 0.45833333333333337
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1243, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 1.0109, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7235, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6223, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5752, Validation Accuracy: 69.44%
+Epoch [51/300], Validation Loss: 0.5376, Validation Accuracy: 77.78%
+Epoch [61/300], Validation Loss: 0.5312, Validation Accuracy: 69.44%
+Epoch [71/300], Validation Loss: 0.5577, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.6197, Validation Accuracy: 69.44%
+Epoch [91/300], Validation Loss: 0.7097, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.78%
+Kappa: 0.5166666666666668
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1592, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9543, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6662, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6144, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5882, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5691, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5572, Validation Accuracy: 73.61%
+Epoch [71/300], Validation Loss: 0.5590, Validation Accuracy: 76.39%
+Epoch [81/300], Validation Loss: 0.5953, Validation Accuracy: 72.22%
+Epoch [91/300], Validation Loss: 0.6895, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.56%
+Kappa: 0.4833333333333334
+accuracy: 0.6711111111111111, precision: 0.7289156626506024, recall: 0.8066666666666666, f1 0.7658227848101266
+Classification Average Test Accuracy: 0.6711111111111111, Classification Average Test Std: 0.033591592128513266
+Average kappa score: 0.5066666666666668, Average kappa Std: 0.05038738819276988
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*******************************************************************************
+21/06/2023 19:27:00
+Vowels
+subject no: 4
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0414, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9093, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6093, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5719, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5635, Validation Accuracy: 68.06%
+Epoch [51/300], Validation Loss: 0.5689, Validation Accuracy: 65.28%
+Epoch [61/300], Validation Loss: 0.6007, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6664, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1708, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 1.0043, Validation Accuracy: 48.61%
+Epoch [21/300], Validation Loss: 0.7146, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6434, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6224, Validation Accuracy: 65.28%
+Epoch [51/300], Validation Loss: 0.6233, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6413, Validation Accuracy: 61.11%
+Epoch [71/300], Validation Loss: 0.6863, Validation Accuracy: 58.33%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.33%
+Kappa: 0.3750000000000001
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1598, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9045, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6268, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5968, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5919, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5989, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6187, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1276, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9989, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6660, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6151, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6030, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6004, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6190, Validation Accuracy: 73.61%
+Epoch [71/300], Validation Loss: 0.6603, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.67%
+Kappa: 0.42500000000000016
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0406, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9372, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6664, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6067, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5962, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6166, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.6754, Validation Accuracy: 61.11%
+Epoch [71/300], Validation Loss: 0.7321, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.67%
+Kappa: 0.42500000000000016
+accuracy: 0.6233333333333333, precision: 0.6765899864682002, recall: 0.8333333333333334, f1 0.7468259895444361
+Classification Average Test Accuracy: 0.6233333333333333, Classification Average Test Std: 0.028631330503833617
+Average kappa score: 0.43500000000000016, Average kappa Std: 0.042946995755750436
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 5
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1623, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9586, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6894, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6398, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6265, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6302, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6530, Validation Accuracy: 62.50%
+Epoch [71/300], Validation Loss: 0.7001, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 66.11%
+Kappa: 0.4916666666666667
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0927, Validation Accuracy: 27.78%
+Epoch [11/300], Validation Loss: 0.8948, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6672, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6303, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6152, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6057, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5951, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.5847, Validation Accuracy: 68.06%
+Epoch [81/300], Validation Loss: 0.5788, Validation Accuracy: 68.06%
+Epoch [91/300], Validation Loss: 0.5988, Validation Accuracy: 68.06%
+Epoch [101/300], Validation Loss: 0.6590, Validation Accuracy: 63.89%
+Epoch [111/300], Validation Loss: 0.7195, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.00%
+Kappa: 0.4
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1191, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9637, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6467, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5938, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5760, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5605, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5514, Validation Accuracy: 69.44%
+Epoch [71/300], Validation Loss: 0.5486, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.5626, Validation Accuracy: 66.67%
+Epoch [91/300], Validation Loss: 0.5814, Validation Accuracy: 61.11%
+Epoch [101/300], Validation Loss: 0.6143, Validation Accuracy: 58.33%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.78%
+Kappa: 0.3666666666666667
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0460, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9360, Validation Accuracy: 69.44%
+Epoch [21/300], Validation Loss: 0.6815, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6148, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5910, Validation Accuracy: 70.83%
+Epoch [51/300], Validation Loss: 0.5760, Validation Accuracy: 70.83%
+Epoch [61/300], Validation Loss: 0.5627, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.5520, Validation Accuracy: 70.83%
+Epoch [81/300], Validation Loss: 0.5418, Validation Accuracy: 68.06%
+Epoch [91/300], Validation Loss: 0.5428, Validation Accuracy: 65.28%
+Epoch [101/300], Validation Loss: 0.5573, Validation Accuracy: 63.89%
+Epoch [111/300], Validation Loss: 0.5772, Validation Accuracy: 63.89%
+Epoch [121/300], Validation Loss: 0.6167, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.22%
+Kappa: 0.3583333333333334
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0780, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9004, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6644, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6233, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6148, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6115, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6116, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6178, Validation Accuracy: 68.06%
+Epoch [81/300], Validation Loss: 0.6320, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 68.33%
+Kappa: 0.5250000000000001
+accuracy: 0.6188888888888889, precision: 0.6767537826685007, recall: 0.82, f1 0.7415222305953278
+Classification Average Test Accuracy: 0.6188888888888888, Classification Average Test Std: 0.045078806166890674
+Average kappa score: 0.42833333333333334, Average kappa Std: 0.067618209250336
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 8
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0116, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9424, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7316, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6123, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5934, Validation Accuracy: 63.89%
+Epoch [51/300], Validation Loss: 0.6535, Validation Accuracy: 61.11%
+Epoch [61/300], Validation Loss: 0.7734, Validation Accuracy: 51.39%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.78%
+Kappa: 0.3666666666666667
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0940, Validation Accuracy: 41.67%
+Epoch [11/300], Validation Loss: 0.9819, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7518, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6275, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5926, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6012, Validation Accuracy: 69.44%
+Epoch [61/300], Validation Loss: 0.6637, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.7820, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 66.11%
+Kappa: 0.4916666666666667
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1357, Validation Accuracy: 2.78%
+Epoch [11/300], Validation Loss: 0.9359, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7259, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6495, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6003, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5691, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5874, Validation Accuracy: 73.61%
+Epoch [71/300], Validation Loss: 0.6451, Validation Accuracy: 72.22%
+Epoch [81/300], Validation Loss: 0.7149, Validation Accuracy: 73.61%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0872, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9486, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7003, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6283, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6007, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5831, Validation Accuracy: 65.28%
+Epoch [61/300], Validation Loss: 0.5885, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.6150, Validation Accuracy: 69.44%
+Epoch [81/300], Validation Loss: 0.6719, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.56%
+Kappa: 0.4083333333333333
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0327, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9005, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6676, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6190, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5890, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5723, Validation Accuracy: 63.89%
+Epoch [61/300], Validation Loss: 0.5999, Validation Accuracy: 63.89%
+Epoch [71/300], Validation Loss: 0.6684, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.00%
+Kappa: 0.4750000000000001
+accuracy: 0.6333333333333333, precision: 0.6917613636363636, recall: 0.8116666666666666, f1 0.7469325153374233
+Classification Average Test Accuracy: 0.6333333333333333, Classification Average Test Std: 0.0358322566591047
+Average kappa score: 0.45000000000000007, Average kappa Std: 0.05374838498865704
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 9
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1057, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.8975, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6535, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5982, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5700, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5511, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.5589, Validation Accuracy: 70.83%
+Epoch [71/300], Validation Loss: 0.6127, Validation Accuracy: 70.83%
+Epoch [81/300], Validation Loss: 0.6870, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 58.89%
+Kappa: 0.3833333333333334
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1486, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9957, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7138, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6492, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6417, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6706, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.7427, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 59.44%
+Kappa: 0.3916666666666667
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1880, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 1.0365, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6976, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6362, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6274, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6449, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6871, Validation Accuracy: 62.50%
+Epoch [71/300], Validation Loss: 0.7760, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.00%
+Kappa: 0.4
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0231, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.8680, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6444, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6152, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6131, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6258, Validation Accuracy: 65.28%
+Epoch [61/300], Validation Loss: 0.6692, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 63.33%
+Kappa: 0.45000000000000007
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1159, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9333, Validation Accuracy: 59.72%
+Epoch [21/300], Validation Loss: 0.6815, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6527, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6592, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6901, Validation Accuracy: 62.50%
+Epoch [61/300], Validation Loss: 0.7533, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 66.11%
+Kappa: 0.4916666666666667
+accuracy: 0.6155555555555555, precision: 0.6684350132625995, recall: 0.84, f1 0.7444608567208271
+Classification Average Test Accuracy: 0.6155555555555555, Classification Average Test Std: 0.02753224820747525
+Average kappa score: 0.42333333333333345, Average kappa Std: 0.04129837231121288
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 11
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0574, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9067, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6346, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5932, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5832, Validation Accuracy: 63.89%
+Epoch [51/300], Validation Loss: 0.5865, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5847, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.6011, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.00%
+Kappa: 0.4
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0438, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.8781, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6487, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6193, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6160, Validation Accuracy: 62.50%
+Epoch [51/300], Validation Loss: 0.6268, Validation Accuracy: 56.94%
+Epoch [61/300], Validation Loss: 0.6537, Validation Accuracy: 51.39%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.11%
+Kappa: 0.41666666666666685
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0670, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9517, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6569, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6166, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6067, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6011, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.5987, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6041, Validation Accuracy: 62.50%
+Epoch [81/300], Validation Loss: 0.6328, Validation Accuracy: 59.72%
+Epoch [91/300], Validation Loss: 0.6975, Validation Accuracy: 58.33%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.56%
+Kappa: 0.4083333333333333
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1008, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9465, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6917, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6468, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6409, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6517, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6827, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 57.78%
+Kappa: 0.3666666666666667
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0616, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9568, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6856, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6211, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6074, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6163, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6410, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6992, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.00%
+Kappa: 0.4750000000000001
+accuracy: 0.6088888888888889, precision: 0.6593830334190232, recall: 0.855, f1 0.7445573294629898
+Classification Average Test Accuracy: 0.6088888888888889, Classification Average Test Std: 0.023465235646603223
+Average kappa score: 0.4133333333333334, Average kappa Std: 0.03519785346990482
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 12
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1143, Validation Accuracy: 6.94%
+Epoch [11/300], Validation Loss: 0.9354, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6344, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5863, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5652, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5441, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.5258, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.5257, Validation Accuracy: 69.44%
+Epoch [81/300], Validation Loss: 0.5527, Validation Accuracy: 70.83%
+Epoch [91/300], Validation Loss: 0.5915, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 51.67%
+Kappa: 0.27500000000000013
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1831, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9987, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6617, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6058, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5897, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5827, Validation Accuracy: 69.44%
+Epoch [61/300], Validation Loss: 0.5877, Validation Accuracy: 69.44%
+Epoch [71/300], Validation Loss: 0.6150, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.6937, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 71.67%
+Kappa: 0.5750000000000001
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0174, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.8933, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6169, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.5490, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5195, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.4913, Validation Accuracy: 69.44%
+Epoch [61/300], Validation Loss: 0.4631, Validation Accuracy: 73.61%
+Epoch [71/300], Validation Loss: 0.4573, Validation Accuracy: 69.44%
+Epoch [81/300], Validation Loss: 0.4886, Validation Accuracy: 73.61%
+Epoch [91/300], Validation Loss: 0.5470, Validation Accuracy: 68.06%
+Epoch [101/300], Validation Loss: 0.6086, Validation Accuracy: 68.06%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 64.44%
+Kappa: 0.4666666666666668
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1288, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9715, Validation Accuracy: 33.33%
+Epoch [21/300], Validation Loss: 0.6655, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6312, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6225, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6193, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6242, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.6393, Validation Accuracy: 70.83%
+Epoch [81/300], Validation Loss: 0.6846, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1507, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 1.0089, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7012, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6359, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6273, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6301, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.6246, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.6202, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.6353, Validation Accuracy: 73.61%
+Epoch [91/300], Validation Loss: 0.6809, Validation Accuracy: 70.83%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 71.11%
+Kappa: 0.5666666666666668
+accuracy: 0.6522222222222223, precision: 0.7101024890190337, recall: 0.8083333333333333, f1 0.7560405300077943
+Classification Average Test Accuracy: 0.6522222222222223, Classification Average Test Std: 0.07274172134814626
+Average kappa score: 0.4783333333333334, Average kappa Std: 0.10911258202221938
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 13
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1253, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 1.0216, Validation Accuracy: 68.06%
+Epoch [21/300], Validation Loss: 0.7605, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6381, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6147, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6060, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6082, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6498, Validation Accuracy: 62.50%
+Epoch [81/300], Validation Loss: 0.7396, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.67%
+Kappa: 0.42500000000000016
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0652, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 1.0147, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.8509, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6882, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6431, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6267, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.6351, Validation Accuracy: 66.67%
+Epoch [71/300], Validation Loss: 0.6703, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.7255, Validation Accuracy: 69.44%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.00%
+Kappa: 0.4750000000000001
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1305, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9789, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6938, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6355, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6318, Validation Accuracy: 68.06%
+Epoch [51/300], Validation Loss: 0.6641, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.7470, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 60.56%
+Kappa: 0.4083333333333333
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0972, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9223, Validation Accuracy: 55.56%
+Epoch [21/300], Validation Loss: 0.6481, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6279, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6427, Validation Accuracy: 65.28%
+Epoch [51/300], Validation Loss: 0.6819, Validation Accuracy: 61.11%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.78%
+Kappa: 0.5166666666666668
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0336, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9561, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7192, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6091, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.5898, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.5962, Validation Accuracy: 68.06%
+Epoch [61/300], Validation Loss: 0.6359, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.7348, Validation Accuracy: 58.33%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 61.67%
+Kappa: 0.42500000000000016
+accuracy: 0.6333333333333333, precision: 0.6795212765957447, recall: 0.8516666666666667, f1 0.7559171597633135
+Classification Average Test Accuracy: 0.6333333333333333, Classification Average Test Std: 0.026759099063982893
+Average kappa score: 0.45000000000000007, Average kappa Std: 0.040138648595974345
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+subject no: 15
+fold: *****************0*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1289, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9970, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.7054, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6423, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6322, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6407, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6672, Validation Accuracy: 68.06%
+Epoch [71/300], Validation Loss: 0.7260, Validation Accuracy: 65.28%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 55.56%
+Kappa: 0.3333333333333335
+fold: *****************1*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0429, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 0.9174, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6846, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6530, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6553, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6792, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.7302, Validation Accuracy: 59.72%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 67.22%
+Kappa: 0.5083333333333335
+fold: *****************2*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1420, Validation Accuracy: 0.00%
+Epoch [11/300], Validation Loss: 0.9516, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6943, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6420, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6286, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6226, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6268, Validation Accuracy: 69.44%
+Epoch [71/300], Validation Loss: 0.6453, Validation Accuracy: 66.67%
+Epoch [81/300], Validation Loss: 0.7065, Validation Accuracy: 66.67%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 65.56%
+Kappa: 0.4833333333333334
+fold: *****************3*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.1498, Validation Accuracy: 33.33%
+Epoch [11/300], Validation Loss: 1.0683, Validation Accuracy: 33.33%
+Epoch [21/300], Validation Loss: 0.7489, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6776, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6652, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6627, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6711, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.7054, Validation Accuracy: 63.89%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 68.33%
+Kappa: 0.5250000000000001
+fold: *****************4*****************
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+with total_sample: 1152, epoch size: 512 and strides: 250
+(648,) (72,) (180,)
+Epoch [1/300], Validation Loss: 1.0366, Validation Accuracy: 66.67%
+Epoch [11/300], Validation Loss: 0.9150, Validation Accuracy: 66.67%
+Epoch [21/300], Validation Loss: 0.6991, Validation Accuracy: 66.67%
+Epoch [31/300], Validation Loss: 0.6512, Validation Accuracy: 66.67%
+Epoch [41/300], Validation Loss: 0.6399, Validation Accuracy: 66.67%
+Epoch [51/300], Validation Loss: 0.6394, Validation Accuracy: 66.67%
+Epoch [61/300], Validation Loss: 0.6547, Validation Accuracy: 65.28%
+Epoch [71/300], Validation Loss: 0.7152, Validation Accuracy: 62.50%
+Early stopping triggered. No improvement in validation loss for 30 epochs.
+Accuracy: 62.78%
+Kappa: 0.44166666666666676
+accuracy: 0.6388888888888888, precision: 0.6797385620915033, recall: 0.8666666666666667, f1 0.761904761904762
+Classification Average Test Accuracy: 0.6388888888888888, Classification Average Test Std: 0.04567734398020992
+Average kappa score: 0.4583333333333335, Average kappa Std: 0.06851601597031488
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
